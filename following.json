@@ -1,0 +1,82 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username1",
+          "value": "username",
+          "timestamp": 1672529559
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username2",
+          "value": "username2",
+          "timestamp": 1672278224
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username3",
+          "value": "username3",
+          "timestamp": 1672263401
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username4",
+          "value": "username4",
+          "timestamp": 1672075274
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username5",
+          "value": "username5",
+          "timestamp": 1672012392
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/username7",
+          "value": "username7",
+          "timestamp": 1671920424
+        }
+      ]
+    }
+  ]
+}
